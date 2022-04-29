@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Sulphur Point', sans-serif;
+  letter-spacing: 2px;
+}
+
+.img {
+  height: 100vh;
+  width: 100%;
+  background: url(images/meliodas.png);
+  background-size: cover;
+  overflow: hidden;
+  background-position: center;
+}
+
+figcaption {
+  font-size: large;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+}
+
+.summary {
+  width: 75%;
+  margin: auto;
+  line-height: 1.5;
+}
