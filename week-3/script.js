@@ -1,3 +1,5 @@
+// 
+
 var balance = 10000;
 let action = prompt('Would you like to Deposit Money or Withdraw Money?');
 
